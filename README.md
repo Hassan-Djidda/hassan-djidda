@@ -1,10 +1,8 @@
 <h3 align="center">Hi 👋, I'm Hassan Mahamat </h3>
 <br/>
 <h3 align="center">A Python Developer & AI Enthusiast who enjoys learning new things.</h3>
-
 <br/>
 <br/>
-
 - 👨‍💻 All of my projects are available [Here](https://github.com/hassan-djidda?tab=repositories).
 
 - 💬 Ask me about **C, SQL, MongoDB, Python, Flask,  Machine Learning, DeepLearning.**
