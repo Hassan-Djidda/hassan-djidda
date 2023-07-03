@@ -5,9 +5,6 @@
 <br/>
 <br/>
 <br/>
-
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan-djidda&margin-w=15&margin-h=15&theme=onedark&no-frame=true&no-bg=true" alt="omar-al-khathlan" /></a> </p>
-
 <br/>
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/hassan-djidda?tab=repositories).
