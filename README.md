@@ -1,6 +1,9 @@
 <h3 align="center">Hi 👋, I'm Hassan Mahamat </h3>
 <br/>
-<h3 align="center">A Python Developer & AI Enthusiast who enjoys learning and gaining new skills.</h3>
+<h3 align="center">
+  A Python Developer & AI Enthusiast with a Geoprahy background who enjoys learning and gaining new skills
+  in my free time I enjoy learning new languages, coding, watching documentary videos.
+  .</h3>
 <br/>
 <br/>
 
