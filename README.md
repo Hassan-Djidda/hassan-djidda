@@ -3,7 +3,8 @@
 <h3 align="center">A Python Developer & AI Enthusiast who enjoys learning and gaining new skills.</h3>
 <br/>
 <br/>
-- 👨‍💻 All of my projects are available [Here](https://github.com/hassan-djidda?tab=repositories).
+
+- 👨‍💻 All of my projects are available [Here](https://github.com/Hassan-Djidda?tab=repositories/).
 
 - 💬 Ask me about **C, SQL, MongoDB, Python, Flask,  Machine Learning, DeepLearning.**
 
