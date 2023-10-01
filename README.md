@@ -1,8 +1,8 @@
 <h3 align="center">Hi 👋, I'm Hassan Mahamat </h3>
 <br/>
 <h3 align="center">
-  A Python Developer & AI Enthusiast with a Bachelor's Degree in Geoprahy who enjoys learning and gaining new skills
-  in my free time I enjoy learning new languages, coding and watching documentary videos.
+  A Python Developer & AI Enthusiast with a Bachelor's Degree in Geoprahy who appreciates learning and gaining new skills.
+  In my free time, I enjoy learning new languages, coding and watching documentary videos.
   .</h3>
 <br/>
 <br/>
