@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Hassan-Djidda?tab=repositories/).
 
-- 💬 Ask me about **C, SQL, MongoDB, Python, Flask,  Machine Learning, DeepLearning.**
+- 💬 Ask me about **C, SQL, Python, javascript, React, Flask, Django, MongoDB, MySQL, AI,  Machine Learning, DeepLearning.**
 
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/hassan-djidda/).
 
