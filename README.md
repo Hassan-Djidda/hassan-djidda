@@ -42,5 +42,5 @@ alt="html5" width="40" height="40"/> </a> </p>
 <br/>
 <br/>
 
-<p align="middle"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-djidda&show_icons=true&locale=en&hide_border=true&theme=onedark&bg_color=00000000" alt="hassan-djidda"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-djidda&show_icons=true&locale=en&hide_border=true&theme=onedark&bg_color=00000000" alt="omar-al-khathlan" /> </p>
+<p align="middle"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-djidda&show_icons=true&locale=en&hide_border=true&theme=onedark&bg_color=00000000" alt="hassan-djidda"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-djidda&show_icons=true&locale=en&hide_border=true&theme=onedark&bg_color=00000000" alt="hassan-djidda" /> </p>
 
