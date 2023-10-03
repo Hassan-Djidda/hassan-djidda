@@ -17,7 +17,7 @@
 
 <br/>
 <br/>
-<p align="left><h3 align="left">Connect with me:</h3>
+<p align="left><h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hassan-djidda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hassan-djidda" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13287040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13287040" height="30" width="40" /></a>
